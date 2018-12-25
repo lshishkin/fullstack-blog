@@ -1,6 +1,6 @@
 # Simple fullstack app-blog
 
-This project was made using JavaScript, MongoDB, Node.js and Express.js
+This project was made using JavaScript, MongoDB(https://mlab.com), Node.js and Express.js
 
 Link to tutorial [heroku](https://secret-anchorage-18526.herokuapp.com/)
 
@@ -9,7 +9,9 @@ Link to tutorial [here](https://www.youtube.com/watch?v=9D1YeBvqGAE&index=2&list
 
 
 
-Этот проект был сделан с помощью JavaScript, MongoDB, Node.js и Express.js
+
+
+Этот проект был сделан с помощью JavaScript, MongoDB(https://mlab.com), Node.js и Express.js
 
 Ссылка на [heroku](https://secret-anchorage-18526.herokuapp.com/)
 
