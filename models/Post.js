@@ -10,7 +10,7 @@ const postShema=new Schema({
         type:String,
         required:true
     },
-    text:{
+    date:{
         type:Date,
         default:Date.now
     }
