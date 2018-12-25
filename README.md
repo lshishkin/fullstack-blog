@@ -6,7 +6,8 @@ Link to tutorial [heroku](https://secret-anchorage-18526.herokuapp.com/)
 
 Link to tutorial [here](https://www.youtube.com/watch?v=9D1YeBvqGAE&index=2&list=PLD-piGJ3Dtl2zA18HzryjQy9Dwa_1Hjs1)
 
-#Простое фуллстэк приложение-блог
+
+
 
 Этот проект был сделан с помощью JavaScript, MongoDB, Node.js и Express.js
 
