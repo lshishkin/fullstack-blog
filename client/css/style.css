@@ -1,3 +1,6 @@
 .container{
     padding-top: 50px;
 }
+.card-content p{
+    white-space: pre-line;
+}
